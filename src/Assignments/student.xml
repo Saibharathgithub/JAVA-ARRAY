@@ -1,0 +1,24 @@
+<?xml version="1.0"?>  
+<class>  
+    <student idno = "104">   
+        <firstname>RAMA</firstname>  
+        <lastname>Kumar</lastname>  
+        <subject>Math</subject>  
+        <marks>83</marks>  
+    </student>  
+      
+    <student idno = "105">   
+        <firstname>Vijay</firstname>  
+        <lastname>Kumar</lastname>  
+        <subject>Chemistry</subject>  
+        <marks>60</marks>  
+    </student>  
+  
+    <student idno="106">  
+        <id>103</id> 
+        <firstname>Ram</firstname>  
+        <lastname>Pandu</lastname>  
+        <subject>English</subject>  
+        <marks>70</marks>  
+    </student>
+</class>

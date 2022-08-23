@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<roseindia>
+<employee1>
+<name>Sai</name>
+<address>Delhi</address>
+</employee1>
+<employee1>
+<name>Bharath</name>
+<address>Mumbai</address>
+</employee1>
+</roseindia>
